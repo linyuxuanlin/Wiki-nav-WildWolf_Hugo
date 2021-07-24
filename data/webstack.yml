@@ -4,6 +4,9 @@
     - title: Maroio's Wiki
       description: 丁雨欣
       url: https://maroiomars.cn/docusaurus-wiki/
+    - title: 白闪 Caldwell
+      description: 蒙朝都
+      url: https://www.notion.so/Caldwell-2c981833335b48ac96e84b949a035311
 
 - taxonomy: 电控
   icon: linecons-star
@@ -14,6 +17,10 @@
     - title: Mingkonic
       description: 伍国熙
       url: https://mingkonic.work/
+    - title: Personal Blog
+      description: 吴焯钧
+      url: https://mingkonic.work/
+
 
 - taxonomy: 视觉
   icon: linecons-star
@@ -33,6 +40,12 @@
     - title: unbinilium.me
       description: 陈湘杰
       url: https://book.unbinilium.me
+    - title: Roboppn's Space
+      description: 曾德港
+      url: https://roboppn.top/
+    - title: 洞二幺拐文档库
+      description: 张阳
+      url: https://www.joycekirkland.site/
 
 - taxonomy: 硬件
   icon: linecons-star
