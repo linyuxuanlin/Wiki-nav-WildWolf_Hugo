@@ -21,7 +21,6 @@
       description: 吴焯钧
       url: https://www.notion.so/Personal-Blog-3faf82f0782d46deb7112e4450bf127f
 
-
 - taxonomy: 视觉
   icon: fa-camera-retro
   links:
@@ -46,6 +45,9 @@
     - title: 洞二幺拐文档库
       description: 张阳
       url: https://www.joycekirkland.site/
+    - title: 徐玺的博客
+      description: 徐玺
+      url: https://www.roboxx.ltd/
 
 - taxonomy: 硬件
   icon: fa-plug
