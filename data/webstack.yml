@@ -9,7 +9,7 @@
       url: https://www.notion.so/Caldwell-2c981833335b48ac96e84b949a035311
 
 - taxonomy: 电控
-  icon: linecons-star
+  icon: fa-laptop
   links:
     - title: 快乐人口无 (๑ŐдŐ)b
       description: 周展鸿
@@ -23,7 +23,7 @@
 
 
 - taxonomy: 视觉
-  icon: linecons-star
+  icon: fa-camera-retro
   links:
     - title: 佳佳鸽的博客
       description: 佳佳哥
@@ -48,7 +48,7 @@
       url: https://www.joycekirkland.site/
 
 - taxonomy: 硬件
-  icon: linecons-star
+  icon: fa-plug
   links:
     - title: BOBI83
       description: Bobi
