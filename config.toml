@@ -1,0 +1,8 @@
+baseURL = "https://nav.wildwolf.tech/"
+languageCode = "zh-CN"
+title = "野狼队导航站"
+theme = "webstack-hugo"
+preserveTaxonomyNames = true
+disablePathToLower = true
+hasCJKLanguage = true
+copyright = ""

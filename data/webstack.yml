@@ -1,0 +1,45 @@
+- taxonomy: 机械
+  icon: linecons-star
+  links:
+    - title: Maroio's Wiki
+      description: 丁雨欣
+      url: https://maroiomars.cn/docusaurus-wiki/
+
+- taxonomy: 电控
+  icon: linecons-star
+  links:
+    - title: 快乐人口无 (๑ŐдŐ)b
+      description: 周展鸿
+      url: https://anshinintakaha.github.io/
+    - title: Mingkonic
+      description: 伍国熙
+      url: https://mingkonic.work/
+
+- taxonomy: 视觉
+  icon: linecons-star
+  links:
+    - title: 佳佳鸽的博客
+      description: 佳佳哥
+      url: https://blog.csdn.net/weixin_43793181
+    - title: Rcxxx
+      description: 任创新
+      url: https://sinnammanyo.cn/
+    - title: BUG-Hunter 的小星球
+      description: 梓凯哥
+      url: http://www.bug-hunter.site/
+    - title: 非酋寻乡
+      description: 高佬
+      url: https://www.notion.so/Learning-28a0ac3bcc454c3badab2a106eae6125
+    - title: unbinilium.me
+      description: 陈湘杰
+      url: https://book.unbinilium.me
+
+- taxonomy: 硬件
+  icon: linecons-star
+  links:
+    - title: BOBI83
+      description: Bobi
+      url: https://bobi.site/
+    - title: Power's Wiki
+      description: 林宇轩
+      url: https://wiki-power.com/
