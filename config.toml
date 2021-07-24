@@ -1,6 +1,6 @@
 baseURL = "https://nav.wildwolf.tech/"
 languageCode = "zh-CN"
-title = "野狼队导航站"
+title = "野狼博客导航"
 theme = "webstack-hugo"
 preserveTaxonomyNames = true
 disablePathToLower = true
