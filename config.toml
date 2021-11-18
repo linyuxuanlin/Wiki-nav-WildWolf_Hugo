@@ -1,4 +1,4 @@
-baseURL = "https://nav.wildwolf.tech/"
+baseURL = "https://nav.wildwolf.pw/"
 languageCode = "zh-CN"
 title = "野狼博客导航"
 theme = "webstack-hugo"
