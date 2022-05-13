@@ -8,4 +8,4 @@ draft: false
 
 如果想要将你的博客添加进来，请扫码：
 
-![](https://wiki-media-1253965369.cos.ap-guangzhou.myqcloud.com/img/20210724155549.png)
+![](https://cos.wiki-power.com/img/20210724155549.png)
